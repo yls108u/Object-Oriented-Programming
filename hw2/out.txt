@@ -1,0 +1,13 @@
+time         100   recID           0   pktID          0   srcID           0   dstID          1   preID          0   nexID          0
+time         100   senID           0   pktID          0   srcID           0   dstID          1   preID          0   nexID          1
+time         110   recID           1   pktID          0   srcID           0   dstID          1   preID          0   nexID          1
+time         120   recID           2   pktID          1   srcID           2   dstID          8   preID          2   nexID          2
+time         120   senID           2   pktID          1   srcID           2   dstID          8   preID          2   nexID          8
+time         130   recID           8   pktID          1   srcID           2   dstID          8   preID          2   nexID          8
+time         140   recID           9   pktID          2   srcID           9   dstID          3   preID          9   nexID          9
+time         140   senID           9   pktID          2   srcID           9   dstID          3   preID          9   nexID          2
+time         150   recID           2   pktID          2   srcID           9   dstID          3   preID          9   nexID          2
+time         150   senID           2   pktID          2   srcID           9   dstID          3   preID          2   nexID          0
+time         160   recID           0   pktID          2   srcID           9   dstID          3   preID          2   nexID          0
+time         160   senID           0   pktID          2   srcID           9   dstID          3   preID          0   nexID          3
+time         170   recID           3   pktID          2   srcID           9   dstID          3   preID          0   nexID          3
